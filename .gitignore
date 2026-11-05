@@ -1,0 +1,6 @@
+*.exe
+*.txt
+*.spec
+.venv/
+build/
+dist/
